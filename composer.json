@@ -26,6 +26,7 @@
     "extra" : {
         "branch-alias" : {
             "dev-main" : "1.0-dev"
-        }
+            
+        {"statusCode":404,"message":"Cannot GET /api/chatgpt/ask-bot/Footer?industry=Web%20Development&companyName=sca%20insider&projectId=6409993203e6859682c432f3","error":"Not Found"}
     }
 }
